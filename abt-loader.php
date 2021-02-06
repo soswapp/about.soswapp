@@ -36,6 +36,7 @@ $page_name = "aboutus";
     <link rel="stylesheet" href="/app/soswapp/plugin.soswapp/css/plugin.min.css">
     <link rel="stylesheet" href="/app/soswapp/dnav.soswapp/css/dnav.min.css">
     <link rel="stylesheet" href="/app/soswapp/faderbox.soswapp/css/faderbox.min.css">
+    <link rel="stylesheet" href="/app/soswapp/fancybox.soswapp/css/fancybox.min.css">
     <!-- Project styling -->
     <link rel="stylesheet" href="<?php echo \html_style("base.css"); ?>">
   </head>
@@ -58,6 +59,7 @@ $page_name = "aboutus";
     <script src="/app/soswapp/plugin.soswapp/js/plugin.min.js" ></script>
     <script src="/app/soswapp/dnav.soswapp/js/dnav.min.js" ></script>
     <script src="/app/soswapp/faderbox.soswapp/js/faderbox.min.js" ></script>
+    <script src="/app/soswapp/fancybox.soswapp/js/fancybox.min.js" ></script>
     <!-- project scripts -->
     <script src="<?php echo \html_script ("base.min.js"); ?>" ></script>
   </body>
